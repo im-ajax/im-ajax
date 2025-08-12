@@ -40,24 +40,25 @@ I'm passionate about :
 ### 🔭 I'm currently working on  
 - Creative graphic design projects 🎨  
 - Coding projects in  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="20" height="20"/>  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="20" height="20"/>  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="20" height="20"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="32" height="32"/>  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="32" height="32"/>  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="32" height="32"/>
 
 ---
 
 ### 🌱 I'm currently learning  
-- <img src="https://cdn.jsdelivr.net/gh/hjnilsson/country-flags/svg/gb.svg" alt="English" width="20" height="15" />
+- <img src="https://cdn.jsdelivr.net/gh/hjnilsson/country-flags/svg/gb.svg" alt="English" width="32" height="24" />
 
 ---
 
 📫 **How to reach me**:  
-<a href="mailto:saniahmed0480@gmail.com" target="_blank" title="Email me" style="display:inline-block; margin-right:10px;">
-  <img src="https://cdn-icons-png.flaticon.com/32/732/732200.png" alt="Email" width="24" height="24" />
+<a href="mailto:saniahmed0480@gmail.com" target="_blank" title="Email me" style="display:inline-block; margin-right:15px;">
+  <img src="https://cdn-icons-png.flaticon.com/32/732/732200.png" alt="Email" width="32" height="32" />
 </a>
 <a href="https://discord.gg/4VqtHEAD" target="_blank" title="Discord" style="display:inline-block;">
-  <img src="https://cdn-icons-png.flaticon.com/32/2111/2111370.png" alt="Discord" width="24" height="24" />
+  <img src="https://cdn-icons-png.flaticon.com/32/2111/2111370.png" alt="Discord" width="32" height="32" />
 </a>
+
 
 
 ## 🛠 Languages & Tools  
