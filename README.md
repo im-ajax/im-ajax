@@ -14,7 +14,8 @@
 ### 👤 About me  
 ![Profile views](https://komarev.com/ghpvc/?username=Sunny&label=Profile%20views&color=0e75b6&style=flat)
 
-I'm from [![Bangladesh](https://img.shields.io/badge/Bangladesh-%F0%9F%87%A7%F0%9F%87%AC-blue?style=for-the-badge)](https://en.wikipedia.org/wiki/Bangladesh), currently in the GMT +6 time zone 🌏.
+I'm from <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Flag_of_Bangladesh.svg/120px-Flag_of_Bangladesh.svg.png" alt="Bangladesh Flag" width="36" height="24" />, currently in the GMT +6 time zone 🌏.
+
  
 I'm passionate about :
 <p align="left"> 
@@ -39,7 +40,7 @@ I'm passionate about :
 
 ### 🔭 I'm currently working on  
 - Creative graphic design projects 🎨  
-- Coding projects in  
+- Coding projects in :
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="32" height="32" style="display:inline-block; margin-right:10px;" />  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="32" height="32" style="display:inline-block; margin-right:10px;" />  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="32" height="32" style="display:inline-block; margin-right:10px;" />  
