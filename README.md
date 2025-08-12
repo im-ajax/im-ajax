@@ -37,7 +37,7 @@ I'm passionate about :
 
 ### 🔭 I'm currently working on  
 - Creative graphic design projects 🎨  
-- Coding projects in  
+- Coding projects in :
 <div style="display: flex; align-items: center; gap: 15px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40" />
@@ -97,8 +97,7 @@ I'm passionate about :
 
 ## 📊 GitHub Stats
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=im-ajax)](https://github.com/im-ajax/github-readme-stats)
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=im-ajax&show_icons=true)
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sunny&theme=tokyonight" alt="GitHub Streak" />
 </p>
