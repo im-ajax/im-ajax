@@ -59,7 +59,7 @@ I'm passionate about :
 ---
 
 ### 🌱 I'm currently learning  
-- <img src="https://cdn.jsdelivr.net/gh/hjnilsson/country-flags/svg/gb.svg" alt="English" width="32" height="24" />
+<img src="https://cdn.jsdelivr.net/gh/hjnilsson/country-flags/svg/gb.svg" alt="English" width="32" height="24" />
 
 ---
 
