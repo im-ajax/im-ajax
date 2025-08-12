@@ -88,8 +88,9 @@ I'm passionate about :
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sunny&show_icons=true&theme=tokyonight&hide=javascript,html,css,php,ruby,go,kotlin,typescript,swift,scala,perl" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Sunny&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </p>
+
 
 
 <p align="center">
