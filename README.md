@@ -47,13 +47,19 @@ I'm passionate about :
 ---
 
 ### 🌱 I'm currently learning  
-- **English** 🇬🇧
+- **English** 🇬🇧 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="English" width="20" height="20"/>
 
 ---
 
-📫 **How to reach me**: **saniahmed0480@gmail.com**
+📫 **How to reach me**:  
+<a href="mailto:saniahmed0480@gmail.com" target="_blank" title="Email me">
+  <img src="https://cdn-icons-png.flaticon.com/32/732/732200.png" alt="Email" width="24" height="24" />
+</a>  
+&nbsp;&nbsp;  
+<a href="https://discord.gg/4VqtHEAD" target="_blank" title="Discord">
+  <img src="https://cdn-icons-png.flaticon.com/32/2111/2111370.png" alt="Discord" width="24" height="24" />
+</a>
 
----
 
 ## 🛠 Languages & Tools  
 
