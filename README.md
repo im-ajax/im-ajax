@@ -47,16 +47,15 @@ I'm passionate about :
 ---
 
 ### 🌱 I'm currently learning  
-- **English** 🇬🇧 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="English" width="20" height="20"/>
+- <img src="https://cdn.jsdelivr.net/gh/hjnilsson/country-flags/svg/gb.svg" alt="English" width="20" height="15" />
 
 ---
 
 📫 **How to reach me**:  
-<a href="mailto:saniahmed0480@gmail.com" target="_blank" title="Email me">
+<a href="mailto:saniahmed0480@gmail.com" target="_blank" title="Email me" style="display:inline-block; margin-right:10px;">
   <img src="https://cdn-icons-png.flaticon.com/32/732/732200.png" alt="Email" width="24" height="24" />
-</a>  
-&nbsp;&nbsp;  
-<a href="https://discord.gg/4VqtHEAD" target="_blank" title="Discord">
+</a>
+<a href="https://discord.gg/4VqtHEAD" target="_blank" title="Discord" style="display:inline-block;">
   <img src="https://cdn-icons-png.flaticon.com/32/2111/2111370.png" alt="Discord" width="24" height="24" />
 </a>
 
@@ -69,7 +68,6 @@ I'm passionate about :
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="Tailwind CSS" width="40" height="40"/> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" alt="Django" width="40" height="40"/> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="40" height="40"/> 
