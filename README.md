@@ -63,13 +63,14 @@ I'm passionate about :
 
 ---
 
-📫 **How to reach me**:  
+### 📫 How to reach me**:  
 <a href="mailto:saniahmed0480@gmail.com" target="_blank" title="Email me" style="display:inline-block; margin-right:15px;">
   <img src="https://cdn-icons-png.flaticon.com/32/732/732200.png" alt="Email" width="32" height="32" />
 </a>
 <a href="https://discord.gg/4VqtHEAD" target="_blank" title="Discord" style="display:inline-block;">
   <img src="https://cdn-icons-png.flaticon.com/32/2111/2111370.png" alt="Discord" width="32" height="32" />
 </a>
+
 
 ---
 
