@@ -75,10 +75,6 @@ I'm passionate about :
   <img src="https://resources.jetbrains.com/storage/products/pycharm/img/meta/pycharm_logo_300x300.png" alt="PyCharm" width="40" height="40" />
 </p>
 
-
-
-
-
 ---
 
 ## 🛠 Languages & Tools  
