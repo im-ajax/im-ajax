@@ -12,10 +12,6 @@
 ### 🔗 Portfolios
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-yeasin-hasan-sunny2006/)
 [![Fiverr](https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)](https://www.fiverr.com/iam_sunnu/buying?source=avatar_menu_profile)
----
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Sunny&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-</div>
 
 ---
 
@@ -111,6 +107,13 @@ I'm passionate about :
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=im-ajax&layout=compact" alt="Top Langs" />
 </div>
 
+---
+
+## How many people visited me
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Sunny&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+</div>
 
 ---
 
