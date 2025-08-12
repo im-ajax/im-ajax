@@ -43,7 +43,7 @@ I'm passionate about :
 ### 🔭 I'm currently working on  
 - Creative graphic design projects 🎨  
 <div style="display: flex; align-items: center; gap: 15px;">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/1024px-Adobe_Photoshop_CC_icon.svg.png" alt="Photoshop" width="40" height="40" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/1024px-Adobe_Photoshop_CC_icon.svg.png" alt="Photoshop" width="40" height="40" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Adobe_Illustrator_CC_icon.svg/1024px-Adobe_Illustrator_CC_icon.svg.png" alt="Illustrator" width="40" height="40" />
 </div>
 - Coding projects in :
@@ -57,7 +57,7 @@ I'm passionate about :
 ---
 
 ### 🌱 I'm currently learning  
-- <img src="https://cdn.jsdelivr.net/gh/hjnilsson/country-flags/svg/gb.svg" alt="English" width="32" height="24" />
+<img src="https://cdn.jsdelivr.net/gh/hjnilsson/country-flags/svg/gb.svg" alt="English" width="32" height="24" />
 
 ---
 
