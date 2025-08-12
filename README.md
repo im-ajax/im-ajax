@@ -97,8 +97,11 @@ I'm passionate about :
 
 ## 📊 GitHub Stats
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=im-ajax&show_icons=true)<br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=im-ajax&layout=compact)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=im-ajax&show_icons=true" alt="Anurag's GitHub stats" /><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=im-ajax&layout=compact" alt="Top Langs" />
+</div>
+
 
 ---
 
