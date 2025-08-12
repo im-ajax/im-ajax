@@ -10,7 +10,10 @@ Social Media Links :<br><br>
 ---
 
 ### 👤 About me  
-![Profile views](https://komarev.com/ghpvc/?username=Sunny&label=Profile%20views&color=0e75b6&style=flat)
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Sunny&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+</div>
+
 
 I'm from <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Flag_of_Bangladesh.svg/120px-Flag_of_Bangladesh.svg.png" alt="Bangladesh Flag" width="36" height="24" />, currently in the GMT +6 time zone 🌏.<br>
 I am studying B.Sc in Computer Science and Engineering in United International University. Got the dedication of solving problems, teamwork, leading team from the very beginning of my career. Part-time problem solver (Still learning). Love to learn new things.
