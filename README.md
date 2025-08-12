@@ -64,24 +64,17 @@ I'm passionate about :
 
 ## The IDE's I use.
 
-## The IDE's I use.
-
 <p align="left">
   <!-- VS Code PNG (official Microsoft CDN) -->
   <img src="https://code.visualstudio.com/assets/images/code-stable.png" alt="VS Code" width="40" height="40" style="display:inline-block; margin-right:15px;" />
 
-  <!-- CodeBlocks official PNG from SourceForge -->
-  <img src="https://sourceforge.net/projects/codeblocks/files/Icons/codeblocks_logo.png/download" alt="CodeBlocks" width="40" height="40" style="display:inline-block; margin-right:15px;" />
-
   <!-- IntelliJ IDEA official logo (from JetBrains resources) -->
   <img src="https://resources.jetbrains.com/storage/products/intellij-idea/img/meta/intellij-idea_logo_300x300.png" alt="IntelliJ IDEA" width="40" height="40" style="display:inline-block; margin-right:15px;" />
-
-  <!-- Cursor IDE - No official logo CDN, using GitHub hosted image -->
-  <img src="https://user-images.githubusercontent.com/57272423/209374802-75f53fc9-0b69-47f9-b39d-5a26ee255c27.png" alt="Cursor" width="40" height="40" style="display:inline-block; margin-right:15px;" />
 
   <!-- PyCharm official logo from JetBrains resources -->
   <img src="https://resources.jetbrains.com/storage/products/pycharm/img/meta/pycharm_logo_300x300.png" alt="PyCharm" width="40" height="40" />
 </p>
+
 
 
 
