@@ -6,10 +6,9 @@ Social Media Links :<br><br>
 [![Threads](https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=threads&logoColor=white)](https://www.threads.net/@_iam_sunnu_)
 [![Twitter](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/sunnuvau)
 
-
+---
 
 ### Portfolios
----
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-yeasin-hasan-sunny2006/)
 ---
 
