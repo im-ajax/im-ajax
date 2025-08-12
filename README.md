@@ -94,9 +94,7 @@ I'm passionate about :
 
 ## 📊 GitHub Stats
 
-<p aling ="center">
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=im-ajax)](https://github.com/im-ajax/github-readme-stats)
-</p>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=im-ajax)](https://github.com/im-ajax/github-readme-stats)
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sunny&theme=tokyonight" alt="GitHub Streak" />
