@@ -1,4 +1,4 @@
-## Hi there 👋, I'm Sunny A.K.A Ajax.
+## Hi there 👋, I'm Sunny A.K.A Ajax
 
 ### 🔗 Social Media Links :<br><br>
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/none.3030)
