@@ -88,8 +88,9 @@ I'm passionate about :
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sunny&show_icons=true&theme=tokyonight&hide=javascript,html,css,php,ruby,go,kotlin,typescript,swift,scala,perl" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sunny&layout=compact&theme=tokyonight&langs_count=3&hide=javascript,html,css,php,ruby,go,kotlin,typescript,swift,scala,perl&custom_language_cplusplus=70&custom_language_c=20&custom_language_java=10" alt="Top Languages" />
 </p>
+
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sunny&theme=tokyonight" alt="GitHub Streak" />
