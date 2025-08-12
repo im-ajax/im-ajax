@@ -14,7 +14,7 @@
 ### 👤 About me  
 ![Profile views](https://komarev.com/ghpvc/?username=Sunny&label=Profile%20views&color=0e75b6&style=flat)
 
-I'm from **Bangladesh 🇧🇩**, currently in the GMT +6 time zone 🌏.  
+I'm from **🇧🇩 Bangladesh**, currently in the GMT +6 time zone 🌏.  
 I'm passionate about **C, C++, Python, Java, JavaScript, Tailwind, Django, MongoDB, HTML, CSS** 💻.  
 When I’m not coding, I work as a **graphics designer 🎨**.  
 
@@ -22,7 +22,10 @@ When I’m not coding, I work as a **graphics designer 🎨**.
 
 ### 🔭 I'm currently working on  
 - Creative graphic design projects 🎨  
-- Coding projects in **Python, C++, and JavaScript**  
+- Coding projects in  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="20" height="20"/>  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="20" height="20"/>  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="20" height="20"/>
 
 ---
 
@@ -43,6 +46,7 @@ When I’m not coding, I work as a **graphics designer 🎨**.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="Tailwind CSS" width="40" height="40"/> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" alt="Django" width="40" height="40"/> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="40" height="40"/> 
@@ -54,7 +58,7 @@ When I’m not coding, I work as a **graphics designer 🎨**.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sunny&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Sunny&show_icons=true&theme=tokyonight&hide=javascript,html,css,php,ruby,go,kotlin,typescript,swift,scala,perl" alt="GitHub Stats" />
 </p>
 
 <p align="center">
@@ -62,5 +66,21 @@ When I’m not coding, I work as a **graphics designer 🎨**.
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sunny&layout=compact&theme=tokyonight&hide=javascript,html,css,php,ruby,go,kotlin,typescript,swift,scala,perl" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sunny&layout=compact&theme=tokyonight&langs_count=3&hide=javascript,html,css,php,ruby,go,kotlin,typescript,swift,scala,perl&custom_language_cplusplus=70&custom_language_c=20&custom_language_java=10" alt="Top Languages" />
+</p>
+
+---
+
+## 🏆 Solved Problems
+
+<p align="center">
+  <a href="https://leetcode.com/u/aByssFanG/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-{{leetcode_solved}}-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode solved problems" />
+  </a>
+  <a href="https://codeforces.com/profile/saniahmed0480" target="_blank">
+    <img src="https://img.shields.io/badge/Codeforces-{{codeforces_solved}}-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces solved problems" />
+  </a>
+  <a href="https://www.hackerrank.com/profile/saniahmed0480" target="_blank">
+    <img src="https://img.shields.io/badge/HackerRank-{{hackerrank_solved}}-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank solved problems" />
+  </a>
 </p>
