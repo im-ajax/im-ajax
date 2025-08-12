@@ -21,7 +21,7 @@ When I’m not coding, I work as a **graphics designer 🎨**.
 
 ### 🔭 I'm currently working on  
 - Creative graphic design projects 🎨  
-- Coding projects in **Python, C++, and JavaScript**  
+- Coding projects in **Python(upcoming), C++(currently doing), and JavaScript(will do)**  
 
 ---
 
