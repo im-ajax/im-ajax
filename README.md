@@ -7,7 +7,6 @@ Social Media Links :<br><br>
 [![Twitter](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/sunnuvau)
 
 
----
 
 ### Portfolios
 ---
