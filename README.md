@@ -16,7 +16,6 @@
 
 I'm from <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Flag_of_Bangladesh.svg/120px-Flag_of_Bangladesh.svg.png" alt="Bangladesh Flag" width="36" height="24" />, currently in the GMT +6 time zone 🌏.
 
- 
 I'm passionate about :
 <p align="left"> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/> 
@@ -35,7 +34,6 @@ I'm passionate about :
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" width="40" height="40"/> 
 </p>
 
-
 ---
 
 ### 🔭 I'm currently working on  
@@ -46,12 +44,6 @@ I'm passionate about :
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" style="display:inline-block; margin-right:15px;" />  
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/1024px-Adobe_Photoshop_CC_icon.svg.png" alt="Photoshop" width="40" height="40" style="display:inline-block; margin-right:15px;" />  
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Adobe_Illustrator_CC_icon.svg/1024px-Adobe_Illustrator_CC_icon.svg.png" alt="Illustrator" width="40" height="40" style="display:inline-block;" />
-
-
-
-
-
-
 
 ---
 
@@ -68,7 +60,19 @@ I'm passionate about :
   <img src="https://cdn-icons-png.flaticon.com/32/2111/2111370.png" alt="Discord" width="32" height="32" />
 </a>
 
+---
 
+## The IDE's I use.
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40" style="display:inline-block; margin-right:15px;" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/8d/Codeblocks_logo.svg" alt="CodeBlocks" width="40" height="40" style="display:inline-block; margin-right:15px;" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/11/IntelliJ_IDEA_Icon.svg" alt="IntelliJ IDEA" width="40" height="40" style="display:inline-block; margin-right:15px;" />
+  <img src="https://cursor.so/static/media/cursor-logo.e27fa2ca.svg" alt="Cursor" width="40" height="40" style="display:inline-block; margin-right:15px;" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/1d/PyCharm_Icon.svg" alt="PyCharm" width="40" height="40" />
+</p>
+
+---
 
 ## 🛠 Languages & Tools  
 
@@ -91,8 +95,6 @@ I'm passionate about :
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Sunny&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </p>
-
-
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sunny&theme=tokyonight" alt="GitHub Streak" />
