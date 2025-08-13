@@ -17,12 +17,8 @@
 
 ### 👤 About me  
 
-I'm from <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Flag_of_Bangladesh.svg/120px-Flag_of_Bangladesh.svg.png" alt="Bangladesh Flag" width="36" height="24" /> 🇧🇩, currently in the GMT +6 time zone 🌏⏰.<br>
-I am studying 🎓 B.Sc in Computer Science and Engineering 💻 at <strong>United International University</strong> 🏛️.<br>
-Passionate about 🧩 problem-solving, 🤝 teamwork, and 🗣️ leading teams from the very beginning of my career.<br>
-Part-time problem solver 🕵️‍♂️ (Still learning 📚).<br>
-Love to 💡 learn new things every day 🚀.<br>
-📢 Follow me and 🔔 turn on notifications so you never miss an update when I share something new ✨.
+I'm from <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Flag_of_Bangladesh.svg/120px-Flag_of_Bangladesh.svg.png" alt="Bangladesh Flag" width="36" height="24" /> 🇧🇩, currently in the GMT +6 time zone 🌏⏰. I am studying 🎓 B.Sc in Computer Science and Engineering 💻 at <strong>United International University</strong> 🏛️.
+Passionate about 🧩 problem-solving, 🤝 teamwork, and 🗣️ leading teams from the very beginning of my career. Part-time problem solver 🕵️‍♂️ (Still learning 📚). Love to 💡 learn new things every day 🚀. 📢 Follow me and 🔔 turn on notifications so you never miss an update when I share something new ✨.
 
 I'm passionate about :
 <p align="left"> 
