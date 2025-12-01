@@ -108,9 +108,10 @@ I'm passionate about :
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=im-ajax&show_icons=true" alt="Ajax's's GitHub stats" /><br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=im-ajax&layout=compact" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=im-ajax&show_icons=true&theme=tokyonight" /><br><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=im-ajax&layout=compact&theme=tokyonight" />
 </div>
+
 
 ---
 
