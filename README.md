@@ -40,24 +40,6 @@ I'm passionate about :
 
 ---
 
-### 🔭 I'm currently working on  
-- Creative graphic design projects 🎨    
-<div style="display: flex; align-items: center; gap: 15px; margin-bottom: 10px;">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/1024px-Adobe_Photoshop_CC_icon.svg.png" alt="Photoshop" width="40" height="40" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Adobe_Illustrator_CC_icon.svg/1024px-Adobe_Illustrator_CC_icon.svg.png" alt="Illustrator" width="40" height="40" />
-</div>
-
-- Coding projects in :  
-<div style="display: flex; align-items: center; gap: 15px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40" />
-  <!--<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" />-->
-</div>
-
-
-
----
-
 ### 🌱 I'm currently learning  
 <img src="https://cdn.jsdelivr.net/gh/hjnilsson/country-flags/svg/gb.svg" alt="English" width="32" height="24" />
 
@@ -74,21 +56,6 @@ I'm passionate about :
 
 ---
 
-## The IDE's I use.
-
-<p align="left">
-  <!-- VS Code PNG (official Microsoft CDN) -->
-  <img src="https://code.visualstudio.com/assets/images/code-stable.png" alt="VS Code" width="40" height="40" style="display:inline-block; margin-right:15px;" />
-
-  <!-- IntelliJ IDEA official logo (from JetBrains resources) -->
-  <img src="https://resources.jetbrains.com/storage/products/intellij-idea/img/meta/intellij-idea_logo_300x300.png" alt="IntelliJ IDEA" width="40" height="40" style="display:inline-block; margin-right:15px;" />
-
-  <!-- PyCharm official logo from JetBrains resources -->
-  <img src="https://resources.jetbrains.com/storage/products/pycharm/img/meta/pycharm_logo_300x300.png" alt="PyCharm" width="40" height="40" />
-</p>
-
----
-
 ## 🛠 Languages & Tools  
 
 <p align="left"> 
@@ -102,15 +69,6 @@ I'm passionate about :
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="40" height="40"/> 
   <!--<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" width="40" height="40"/> -->
 </p>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=im-ajax&show_icons=true&theme=tokyonight" /><br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=im-ajax&layout=compact&theme=tokyonight" />
-</div>
 
 
 ---
