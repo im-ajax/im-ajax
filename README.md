@@ -1,6 +1,6 @@
 <div align="center">
-  <h1>Hi, I'm <span style="color: #58a6ff;">Sunny</span> (Ajax) 👋</h1>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=B.Sc+in+Computer+Science+Student;Full-Stack+Web+Developer;Problem+Solver+@+LeetCode;Passionate+about+Team+Leadership" alt="Typing SVG" />
+  <h1>Hi, I'm <span style="color: #58a6ff;">Yeasin Hasan Sunny</span> (Ajax) 👋</h1>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Computer+Science+Student;Full-Stack+Web+Developer;Problem+Solver+@+LeetCode;Problem+Solver+@+CodeForces;Passionate+about+Team+Leadership" alt="Typing SVG" />
 </div>
 
 ---
