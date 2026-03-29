@@ -40,8 +40,8 @@ I'm a **CSE student at United International University 🏛️** with a passion 
 
 ### 📊 GitHub Stats & Streaks
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aByssFanG&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=aByssFanG&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=im-ajax&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=im-ajax&theme=tokyonight"/>
 </div>
 
 ---
@@ -62,5 +62,5 @@ I'm a **CSE student at United International University 🏛️** with a passion 
 <br />
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=aByssFanG&label=Profile%20views&color=58a6ff&style=flat-square" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=im-ajax&label=Profile%20views&color=58a6ff&style=flat-square" alt="Profile views" />
 </div>
