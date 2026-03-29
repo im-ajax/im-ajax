@@ -17,12 +17,6 @@ I'm a **CSE student at United International University 🏛️**. I love buildin
 
 ### 🚀 Connect with Me
 <div align="center">
-  <a href="https://www.linkedin.com/in/md-yeasin-hasan-sunny2006/">
-    <img src="https://capsule-render.vercel.app/render?type=rect&color=auto&height=100&section=header&text=Connect%20with%20Ajax&fontSize=35&animation=twinkling&desc=Full-Stack%20Developer%20|%20CSE%20Student&descAlignY=70&descSize=15" />
-  </a>
-</div>
-
-<div align="center">
   <br />
   <a href="https://www.linkedin.com/in/md-yeasin-hasan-sunny2006/">
     <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" width="50" height="50" alt="LinkedIn" />
