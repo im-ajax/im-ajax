@@ -51,9 +51,9 @@ I'm a **CSE student at United International University 🏛️**. I love buildin
 
 ### 📊 GitHub Activity
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=im-ajax&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=im-ajax&theme=tokyonight"/>
 </div>
+<br> 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=im-ajax&theme=tokyonight" height="180em" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=im-ajax&theme=tokyonight" height="180em" />
