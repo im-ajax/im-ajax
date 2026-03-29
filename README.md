@@ -1,15 +1,12 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=0:0d1117,100:58a6ff&height=200&section=header&text=Hi,%20I'm%20Sunny%20👋&fontSize=70&animation=fadeIn&fontAlignY=35" width="100%" />
-</div>
-
-<p align="center">
+  <h1>Hi, I'm <span style="color: #58a6ff;">Sunny</span> (Ajax) 👋</h1>
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=B.Sc+in+Computer+Science+Student;Full-Stack+Web+Developer;Problem+Solver+@+LeetCode;Passionate+about+Team+Leadership" alt="Typing SVG" />
-</p>
+</div>
 
 ---
 
 ### 👤 About Me
-I'm a **CSE student at United International University 🏛️** with a passion for building scalable web applications and solving complex algorithmic challenges. Currently diving deep into **Full-Stack Development** and **Java OOP**.
+I'm a **CSE student at United International University 🏛️**. I love building things for the web and cracking tough logic problems in Java and C.
 
 - 🔭 I’m currently working on **Full-Stack Portfolio Projects**
 - 🌱 I’m currently learning **Advanced English & Backend Systems**
@@ -30,15 +27,15 @@ I'm a **CSE student at United International University 🏛️** with a passion 
 ---
 
 ### 🛠 Languages & Tools
-<p align="left">
+<div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,java,py,js,ruby,kotlin,nodejs,react,django,mongodb,html,css,docker,postgres,figma,vscode,git" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,java,py,js,ruby,kotlin,nodejs,react,django,mongodb,html,css,docker,postgres,figma,vscode,git&theme=dark" />
   </a>
-</p>
+</div>
 
 ---
 
-### 📊 GitHub Stats & Streaks
+### 📊 GitHub Activity
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=im-ajax&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=im-ajax&theme=tokyonight"/>
