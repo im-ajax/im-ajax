@@ -16,15 +16,16 @@ I'm a **CSE student at United International University 🏛️**. I love buildin
 ---
 
 ### 🚀 Connect with Me
-### 🚀 Connect with Me
 <div align="center">
-  <br />
-  <a href="https://www.linkedin.com/in/md-yeasin-hasan-sunny2006/"><img src="https://skillicons.dev/icons?i=linkedin&theme=dark" width="50" height="50" alt="LinkedIn" /></a>
-  <a href="https://github.com/im-ajax"><img src="https://skillicons.dev/icons?i=github&theme=dark" width="50" height="50" alt="GitHub" /></a>
-  <a href="https://www.facebook.com/none.3030"><img src="https://skillicons.dev/icons?i=facebook&theme=dark" width="50" height="50" alt="Facebook" /></a>
-  <a href="https://discord.gg/4VqtHEAD"><img src="https://skillicons.dev/icons?i=discord&theme=dark" width="50" height="50" alt="Discord" /></a>
-  <a href="mailto:saniahmed0480@gmail.com"><img src="https://skillicons.dev/icons?i=gmail&theme=dark" width="50" height="50" alt="Gmail" /></a>
-  <a href="https://www.instagram.com/_iam_sunnu_/"><img src="https://skillicons.dev/icons?i=instagram&theme=dark" width="50" height="50" alt="Instagram" /></a>
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-yeasin-hasan-sunny2006/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/im-ajax)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/none.3030)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/4VqtHEAD)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saniahmed0480@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_iam_sunnu_/)
+
 </div>
 ---
 
