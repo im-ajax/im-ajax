@@ -16,26 +16,15 @@ I'm a **CSE student at United International University 🏛️**. I love buildin
 ---
 
 ### 🚀 Connect with Me
+### 🚀 Connect with Me
 <div align="center">
   <br />
-  <a href="https://www.linkedin.com/in/md-yeasin-hasan-sunny2006/" style="display: inline-block;">
-    <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" width="50" height="50" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/im-ajax" style="display: inline-block;">
-    <img src="https://skillicons.dev/icons?i=github&theme=dark" width="50" height="50" alt="GitHub" />
-  </a>
-  <a href="https://www.facebook.com/none.3030" style="display: inline-block;">
-    <img src="https://skillicons.dev/icons?i=facebook&theme=dark" width="50" height="50" alt="Facebook" />
-  </a>
-  <a href="https://discord.gg/4VqtHEAD" style="display: inline-block;">
-    <img src="https://skillicons.dev/icons?i=discord&theme=dark" width="50" height="50" alt="Discord" />
-  </a>
-  <a href="mailto:saniahmed0480@gmail.com" style="display: inline-block;">
-    <img src="https://skillicons.dev/icons?i=gmail&theme=dark" width="50" height="50" alt="Gmail" />
-  </a>
-  <a href="https://www.instagram.com/_iam_sunnu_/" style="display: inline-block;">
-    <img src="https://skillicons.dev/icons?i=instagram&theme=dark" width="50" height="50" alt="Instagram" />
-  </a>
+  <a href="https://www.linkedin.com/in/md-yeasin-hasan-sunny2006/"><img src="https://skillicons.dev/icons?i=linkedin&theme=dark" width="50" height="50" alt="LinkedIn" /></a>
+  <a href="https://github.com/im-ajax"><img src="https://skillicons.dev/icons?i=github&theme=dark" width="50" height="50" alt="GitHub" /></a>
+  <a href="https://www.facebook.com/none.3030"><img src="https://skillicons.dev/icons?i=facebook&theme=dark" width="50" height="50" alt="Facebook" /></a>
+  <a href="https://discord.gg/4VqtHEAD"><img src="https://skillicons.dev/icons?i=discord&theme=dark" width="50" height="50" alt="Discord" /></a>
+  <a href="mailto:saniahmed0480@gmail.com"><img src="https://skillicons.dev/icons?i=gmail&theme=dark" width="50" height="50" alt="Gmail" /></a>
+  <a href="https://www.instagram.com/_iam_sunnu_/"><img src="https://skillicons.dev/icons?i=instagram&theme=dark" width="50" height="50" alt="Instagram" /></a>
 </div>
 ---
 
